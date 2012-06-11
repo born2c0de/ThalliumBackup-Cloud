@@ -1,5 +1,8 @@
-tmp/*
-config/database.php
-app/tmp/*
-app/config/database.php
+# Database Configuration
+includes/constants.php
+# Amazon Web Services Configuration File
+sdk-1.5.6.2/config.inc.php
+# CloudFront Connection Test Files
+connectionTests/cftest.php
+connectionTests/cftest2.php
 !empty
